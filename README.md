@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FFB9EA&background=FFFFFF00&center=false&vCenter=false&random=false&width=600&lines=Welcome+to+my+GitHub!++.%E2%8B%86%E2%9F%A1(%E2%80%A2%E1%B4%97%E2%80%A2)%E2%9F%A1%E2%8B%86.)](https://git.io/typing-svg)
 
 - 👋 My name is Nicole. I'm a Software Engineer based in Houston, TX.
-- 💄 I’m currently working on Beauty Buzz, an Ulta-inspired ecommerce site.
-- 🥂 In my free time, I enjoy exploring new restaurants and bars, listening to new music, and hanging out with friends.
+- 💄 I’m currently working on Beauty Buzz, an Ulta-inspired e-commerce site.
+- 🥂 In my free time, I enjoy exploring new restaurants and bars, listening to new music, and hanging out with friends!
 
 ## 💡 My Tech Stack
 ![Static Badge](https://img.shields.io/badge/Javascript-darkred?style=for-the-badge&logo=javascript&logoColor=white)
